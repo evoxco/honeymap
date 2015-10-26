@@ -1,0 +1,36 @@
+2015/10/26 12:10:42 Binding Honeymap webserver to 0.0.0.0:3000...
+2015/10/26 12:10:42 Connecting to localhost:20000...
+2015/10/26 12:10:42 Connected to Hpfeeds server.
+sockjs: 2015/10/26 12:10:52 10.0.9.6:52166/5kgol8i7: session opened
+2015/10/26 12:11:06 Read(): EOF
+2015/10/26 12:11:06 Lost connection to localhost:20000 :-(
+2015/10/26 12:11:06 Reconnecting to localhost:20000
+2015/10/26 12:11:06 Reconnecting to localhost:20000
+2015/10/26 12:11:07 Reconnecting to localhost:20000
+2015/10/26 12:11:09 Reconnecting to localhost:20000
+sockjs: 2015/10/26 12:11:11 10.0.9.6:52166/5kgol8i7: receive error: EOF
+sockjs: 2015/10/26 12:11:11 10.0.9.6:52166/5kgol8i7: session closed
+2015/10/26 12:11:12 Reconnecting to localhost:20000
+sockjs: 2015/10/26 12:11:12 10.0.9.6:52172/d51g4ep8: session opened
+2015/10/26 12:11:16 Reconnecting to localhost:20000
+2015/10/26 12:11:21 Reconnecting to localhost:20000
+2015/10/26 12:11:27 Reconnecting to localhost:20000
+2015/10/26 12:11:34 Reconnecting to localhost:20000
+2015/10/26 12:11:42 Reconnecting to localhost:20000
+2015/10/26 12:11:51 Reconnecting to localhost:20000
+2015/10/26 12:12:01 Reconnecting to localhost:20000
+2015/10/26 12:12:12 Reconnecting to localhost:20000
+2015/10/26 12:12:23 Reconnecting to localhost:20000
+2015/10/26 12:12:34 Reconnecting to localhost:20000
+2015/10/26 12:12:45 Reconnecting to localhost:20000
+2015/10/26 12:12:56 Reconnecting to localhost:20000
+2015/10/26 12:13:07 Reconnecting to localhost:20000
+2015/10/26 12:13:18 Reconnecting to localhost:20000
+2015/10/26 12:13:29 Reconnecting to localhost:20000
+2015/10/26 12:13:40 Reconnecting to localhost:20000
+2015/10/26 12:13:51 Reconnecting to localhost:20000
+2015/10/26 12:14:02 Reconnecting to localhost:20000
+2015/10/26 12:14:13 Reconnecting to localhost:20000
+2015/10/26 12:14:24 Reconnecting to localhost:20000
+2015/10/26 12:14:35 Reconnecting to localhost:20000
+2015/10/26 12:14:46 Reconnecting to localhost:20000

@@ -1,0 +1,117 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #021320;
+  color: white;
+  background: -moz-linear-gradient(top, #021320, #03244b, #021320);
+  background: -webkit-linear-gradient(top, #021320, #03244b, #021320);
+}
+
+a {
+  color: white;
+}
+
+#world-map {
+  margin: 0px auto 0px auto;
+}
+
+#log {
+  margin: 1% auto 0px auto;
+  overflow: auto;
+  overflow-x: hidden;
+  white-space: nowrap;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+  font-family: 'Ubuntu Mono', monospace, fixed, sans-serif;
+  font-size: 70%;
+}
+
+#log div {
+  display: inline;
+}
+
+.log_timestamp, .log_info, .log_info a {
+  color: silver;
+}
+
+.log_bracket {
+  color: red;
+}
+
+.log_bracket2 {
+  color: #4b81db;
+}
+
+.log_country {
+  font-weight: bold;
+}
+
+#logo1 {
+  position: absolute;
+  left: 1%;
+  bottom: 1%;
+  max-width: 15%;
+}
+
+#logo1 img, #logo2 img {
+  width: 100%;
+}
+
+#logo2 {
+  position: absolute;
+  right: 1%;
+  bottom: 1%;
+  max-width: 15%;
+}
+
+#helpbtn {
+  position: absolute;
+  left: 1px;
+  top: 1px;
+}
+
+#helpbtn img {
+  border: 0;
+}
+
+.modal {
+  color: black;
+  font-family: "Trebuchet MS", sans-serif;
+  display: none;
+}
+
+.modal a {
+  color: blue;
+}
+
+/*************************** ANIMATION STUFF ************************************/
+
+.marker_animation {
+  position: absolute;
+  opacity: 0;
+  border-radius: 100px;
+  -moz-border-radius: 100px;
+  /* 40px radius, move origin to center */
+  height: 80px;
+  width: 80px;
+  margin-top: -40px;
+  margin-left: -40px;
+  pointer-events: none; /* dont kill the hover event of markers */
+  -webkit-transform: translateZ(0); /* little trick to force GPU acceleration */
+}
+
+.markerdst {
+  background-color: yellow;
+  z-index: 10;
+}
+
+.markersrc {
+  background-color: red;
+  z-index: 20;
+}
+
+.jvectormap-label {
+  z-index: 30;
+}
